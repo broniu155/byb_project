@@ -34,5 +34,5 @@ For numbers.py:
 python numbers.py
 
 ## Credits
-This code was written by Your Name. If you have any questions or suggestions, feel free to contact me.
+This code was written by Broniu155. If you have any questions or suggestions, feel free to contact me.
 
