@@ -27,7 +27,7 @@ cd yourrepository/T04-Iteration
 ```
 
 ## Usage
-# Running pattern.py
+### Running pattern.py
 To run the pattern.py script, use the following command in your terminal:
 ```sh
 python pattern.py
