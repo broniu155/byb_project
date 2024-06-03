@@ -33,12 +33,12 @@ To run the pattern.py script, use the following command in your terminal:
 python pattern.py
 ```
 
-# Running while.py
+### Running while.py
 To run the while.py script, use the following command in your terminal:
 ```sh
 python while.py
 ```
-# Example Outputs
+### Example Outputs
 Here are some example outputs you can expect from running these scripts:
 
 pattern.py:
