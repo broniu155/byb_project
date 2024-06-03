@@ -21,7 +21,7 @@ git clone https://github.com/yourusername/yourrepository.git
 ```
 
 ## Usage
-# Running the Code
+### Running the Code
 To run each of the Python scripts in this task, use the following commands in your terminal:
 
 For award.py:
