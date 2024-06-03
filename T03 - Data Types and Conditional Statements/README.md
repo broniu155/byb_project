@@ -9,7 +9,6 @@ This task covers the fundamental concepts of data types and conditional statemen
 - [Installation](#installation)
 - [Usage](#usage)
   - [Running the Code](#running-the-code)
-  - [Example Outputs](#example-outputs)
 - [Credits](#credits)
 
 ## Installation
