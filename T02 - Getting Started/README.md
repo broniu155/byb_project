@@ -35,4 +35,4 @@ python details.py
 For the batch files, you can run them directly by double-clicking on file_cd.bat and ifExample.bat or by running them from the command prompt.
 
 ## Credits
-This code was written by Your Name. If you have any questions or suggestions, feel free to contact me.
+This code was written by Broniu155. If you have any questions or suggestions, feel free to contact me.
