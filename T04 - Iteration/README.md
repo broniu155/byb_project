@@ -52,6 +52,7 @@ pattern.py:
 ***
 **
 *
+```
 
 while.py:
 ```sh
