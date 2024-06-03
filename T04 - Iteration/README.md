@@ -42,6 +42,7 @@ python while.py
 Here are some example outputs you can expect from running these scripts:
 
 pattern.py:
+```sh
 *
 **
 ***
@@ -53,11 +54,13 @@ pattern.py:
 *
 
 while.py:
+```sh
 Enter the integer value: 5
 Enter another integer value: 3
 Enter another integer value: 4
 Enter another integer value: -1
 Average number of the entered number is: 4.0
+```
 
 ## Credits
 This code was written by Broniu155. If you have any questions or suggestions, feel free to contact me.
