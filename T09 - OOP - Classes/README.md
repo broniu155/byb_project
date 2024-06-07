@@ -32,7 +32,6 @@ To run the student.py script, use the following command in your terminal:
 ```sh
 python student.py
 ```
-python student.py
 
 ### Running email.py
 To run the email.py script, use the following command in your terminal:
